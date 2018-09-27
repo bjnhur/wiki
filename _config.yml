@@ -1,7 +1,7 @@
 # Site settings
 title: 개인위키
-url: "http://devbj.com/wiki/"
-baseurl: "/wiki"
+url: "http://wiki.devbj.com/"
+baseurl: ""
 description: >
     
 
