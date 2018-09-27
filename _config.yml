@@ -52,3 +52,5 @@ edit: "https://github.com/bjnhur/wiki/edit/master/_wiki"
 issue: "https://github.com/bjnhur/wiki/issues/new"
 
 timezone: "Asia/Seoul"
+
+theme: jekyll-theme-cayman
