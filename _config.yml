@@ -1,9 +1,9 @@
 # Site settings
 title: 개인위키
-url: "https://devbj.com/wiki"
+url: "http://devbj.com/wiki"
 baseurl: ""
 description: >
-    기계인간 블로그
+    
 
 # My information
 email: bjnhur@gmail.com
